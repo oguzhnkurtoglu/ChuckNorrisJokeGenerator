@@ -3,6 +3,7 @@
 	padding: 0;
 }
 body {
+	width: 100vw;
 	height: 100vh;
 	background-color: #016a70;
 	align-items: center;
@@ -12,6 +13,8 @@ body {
 	font-weight: 900;
 }
 .container {
+	max-width: 60%;
+	max-height: 60%;
 	background-color: #ffffdd;
 	padding: 5rem;
 	border-radius: 20px;
